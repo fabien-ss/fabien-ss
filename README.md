@@ -17,4 +17,4 @@ Salut ! Je suis Fabien, un étudiant en informatique enthousiaste et passionné 
 
 N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet passionnant ou discuter de tout ce qui concerne la programmation. Je suis ouvert aux opportunités d'apprentissage et de collaboration !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![KingMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=01KingMaker&show_icons=true&theme=transparent)
