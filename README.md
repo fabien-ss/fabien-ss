@@ -10,10 +10,9 @@ Salut ! Je suis Fabien, un étudiant en informatique enthousiaste et passionné 
 ### Mes Compétences
 
 - 💻 Langages de Programmation : JavaScript, Python, Java, C#, Php
-- 🛠 Outils et Frameworks : Visual Studio Code, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter
+- 🛠 Outils et Frameworks : Visual Studio, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter
 - 📚 Bases de Données : MySQL, Oracle, PostgreSQL, SQLServer
 
-### Contact
 
 N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet passionnant ou discuter de tout ce qui concerne la programmation. Je suis ouvert aux opportunités d'apprentissage et de collaboration !
 
