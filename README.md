@@ -1,19 +1,19 @@
-## Étudiant en Informatique Passionné par la Programmation
+## Computer Science Student Passionate about Programming
 
-Salut ! Je suis Fabien, un étudiant en informatique enthousiaste et passionné par le monde de la programmation. Je suis constamment en train d'apprendre et de développer mes compétences en informatique pour résoudre des problèmes passionnants.
+Hi ! I am Fabien, an enthusiastic computer science student passionate about the world of programming. I am constantly learning and developing my computer science skills to solve exciting problems.
 
-### Mes Intérêts
+### My interests
 
-- 🌐 Développement Web : J'adore créer des sites Web interactifs et conviviaux.
-- 🤖 Programmation Backend : Je me plonge également dans le développement backend en utilisant des langages comme Python et Node.js pour créer des applications robustes.
+- 🌐 Web Development: I love creating interactive and user-friendly websites.
+- 🤖 Backend Programming: I also delve into backend development using languages ​​like Python and Node.js to create robust applications.
 
-### Mes Compétences
+### My skills
 
-- 💻 Langages de Programmation : JavaScript, Python, Java, C#, Php
-- 🛠 Outils et Frameworks : Visual Studio, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter
-- 📚 Bases de Données : MySQL, Oracle, PostgreSQL, SQLServer
+- 💻 Programming Languages: JavaScript, Python, Java, C#, PHP
+- 🛠 Tools and Frameworks: Visual Studio, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter
+- 📚 Databases: MySQL, Oracle, PostgreSQL, SQLServer
 
 
-N'hésitez pas à me contacter si vous souhaitez collaborer sur un projet passionnant ou discuter de tout ce qui concerne la programmation. Je suis ouvert aux opportunités d'apprentissage et de collaboration !
+Please feel free to contact me if you would like to collaborate on an exciting project or discuss anything programming related. I am open to learning and collaboration opportunities!
 
 ![KingMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=01KingMaker&show_icons=true&theme=transparent)
