@@ -10,7 +10,7 @@ Hi ! I am Fabien, an enthusiastic computer science student passionate about the 
 ### My skills
 
 - 💻 Programming Languages: JavaScript, Python, Java, C#, PHP
-- 🛠 Tools and Frameworks: Visual Studio, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter
+- 🛠 Tools and Frameworks: Visual Studio, Netbeans, Pycharm, Adobe XD, Angular, Spring, Django, Codeigniter, dotnet mvc, rider jetbrain, fleet jetbeain
 - 📚 Databases: MySQL, Oracle, PostgreSQL, SQLServer
 
 
