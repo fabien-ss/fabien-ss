@@ -18,4 +18,4 @@ Please feel free to contact me if you would like to collaborate on an exciting p
 
 ![KingMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=01KingMaker&show_icons=true&theme=transparent)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01KingMaker&show_icons=true&locale=en&layout=compact" alt="Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01KingMaker&show_icons=true&locale=en&layout=compact" alt="01KingMaker" /></p>
