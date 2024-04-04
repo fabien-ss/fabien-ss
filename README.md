@@ -1,7 +1,7 @@
 <center>
   <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Madagascar_240-animated-flag-gifs.gif" />
 </center>
-<div width=100% height=100% style="background-image: url('https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Madagascar_240-animated-flag-gifs.gif');>
+<div width=100% height=100% style="background-image: url('https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Madagascar_240-animated-flag-gifs.gif');">
   
 ## Computer Science Student Passionate about Programming
 Hi ! I am Fabien, an enthusiastic computer science student passionate about the world of programming. I am constantly learning and developing my computer science skills to solve exciting problems.
