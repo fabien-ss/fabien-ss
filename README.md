@@ -12,6 +12,7 @@ Please feel free to contact me if you would like to collaborate on an exciting p
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabien-ss&show_icons=true&locale=en&layout=compact" alt="fabien-ss" /></p>
  
-</div>
 <a href="https://app.daily.dev/andriniainafabienrakotomanana"><img src="https://api.daily.dev/devcards/v2/s7hZxFSBbhqCSUaXUask3.png?r=rxa&type=wide" width="652" alt="Andriniaina Fabien Rakotomanana's Dev Card"/></a>
+</div>
+
 
