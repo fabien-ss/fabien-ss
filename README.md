@@ -1,6 +1,4 @@
-<center>
-  <img src="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Madagascar_240-animated-flag-gifs.gif" />
-</center>
+
 <div width=100% height=100% style="background-image: url('https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Madagascar_240-animated-flag-gifs.gif'); align-items: center;">
   
 ## Computer Science Student Passionate about Programming
