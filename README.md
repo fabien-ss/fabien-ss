@@ -1,10 +1,20 @@
-## Computer Science Student Passionate about Programming
-Hi ! I am Fabien, an enthusiastic computer science student passionate about the world of programming. I am constantly learning and developing my computer science skills to solve exciting problems.
-
-Please feel free to contact me if you would like to collaborate on an exciting project or discuss anything programming related. I am open to learning and collaboration opportunities!
-
-Drop an eye or two (laugh) at my portfolio <a href="https://fabien-portfolio.netlify.app/" target="_blank">Here!</a>.  
-
-![KingMaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabien-ss&show_icons=true&theme=transparent)
-![KingMaker's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabien-ss&theme=transparent&show_icons=true&border=white)
-
+java.net.UnknownHostException: rollbar.co
+    at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+    at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+    at java.base/java.net.Socket.connect(Socket.java:648)
+    at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:290)
+    at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+    at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+    at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+    at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+    at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+    at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+    at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:177)
+    at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1194)
+    at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1082)
+    at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:163)
+    at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1600)
+    at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1528)
+    at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+    at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+    at UnknownHostExceptionExample.main(UnknownHostExceptionExample.java:14)
