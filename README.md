@@ -64,8 +64,6 @@ Implemented observability and authentication layers
 
 - ♟️ **Chess:** Actively playing on Chess.com as [ampesa_coco](https://www.chess.com/member/ampesa_coco)
 - 🎨 **Art:** I appreciate art and plan to build a portfolio section on my personal website.
-- 🤝 **Community Involvement:** Passionate about creating a knowledge-sharing community within my church, especially focused on career guidance and professional integration.
-- 🌍 **Cultural Curiosity & Travel:** Interested in exploring new cultures and environments, with aspirations to study abroad (Korea, Germany, Switzerland).
 - 💻 **Tech Projects:** Enjoy building personal and experimental software outside of work and study.
 
 ---
@@ -74,7 +72,7 @@ Implemented observability and authentication layers
 
 - 🛠️ My favorite debugging tool is... coffee!  
 - 🕹️ I love building systems almost as much as I love classic video games.
-- 🎸 When not coding, you might find me jamming on my guitar or organizing tech meetups.
+- 🏋🏼‍♂️ When not coding, you might find me jogging or practising sports.
 - 🥇 My superpower? Turning "It works on my machine" into "It works in production!"
 - 🤹‍♂️ I'm the person who’ll automate his own chores just for the challenge.
 - 🙋‍♂️ Always open for a chat about code, tech, or ways to make the world a better place.
