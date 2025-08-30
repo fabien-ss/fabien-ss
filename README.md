@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Fabien — DevOps Engineer & Full-Stack Developer
+# 👋 Hi, I'm Fabien — Full-Stack Developer
 
 > “Code is a tool. Impact is the goal.”
 
